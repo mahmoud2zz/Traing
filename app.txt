@@ -1,3 +1,2 @@
 Hello Git
 Second Line
-Second Line
