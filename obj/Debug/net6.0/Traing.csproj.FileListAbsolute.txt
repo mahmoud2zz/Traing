@@ -1,0 +1,14 @@
+/Users/terminal/Projects/Traing/Traing/bin/Debug/net6.0/Traing
+/Users/terminal/Projects/Traing/Traing/bin/Debug/net6.0/Traing.deps.json
+/Users/terminal/Projects/Traing/Traing/bin/Debug/net6.0/Traing.runtimeconfig.json
+/Users/terminal/Projects/Traing/Traing/bin/Debug/net6.0/Traing.dll
+/Users/terminal/Projects/Traing/Traing/bin/Debug/net6.0/Traing.pdb
+/Users/terminal/Projects/Traing/Traing/obj/Debug/net6.0/Traing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/terminal/Projects/Traing/Traing/obj/Debug/net6.0/Traing.AssemblyInfoInputs.cache
+/Users/terminal/Projects/Traing/Traing/obj/Debug/net6.0/Traing.AssemblyInfo.cs
+/Users/terminal/Projects/Traing/Traing/obj/Debug/net6.0/Traing.csproj.CoreCompileInputs.cache
+/Users/terminal/Projects/Traing/Traing/obj/Debug/net6.0/Traing.dll
+/Users/terminal/Projects/Traing/Traing/obj/Debug/net6.0/refint/Traing.dll
+/Users/terminal/Projects/Traing/Traing/obj/Debug/net6.0/Traing.pdb
+/Users/terminal/Projects/Traing/Traing/obj/Debug/net6.0/Traing.genruntimeconfig.cache
+/Users/terminal/Projects/Traing/Traing/obj/Debug/net6.0/ref/Traing.dll
